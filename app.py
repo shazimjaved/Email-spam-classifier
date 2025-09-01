@@ -4,17 +4,31 @@ import nltk
 import string
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
+import os
 
-# Download required NLTK data
-try:
-    nltk.data.find('tokenizers/punkt')
-except LookupError:
-    nltk.download('punkt')
+# Set NLTK data path to a writable directory
+nltk_data_dir = os.path.join(os.getcwd(), 'nltk_data')
+if not os.path.exists(nltk_data_dir):
+    os.makedirs(nltk_data_dir)
 
-try:
-    nltk.data.find('corpora/stopwords')
-except LookupError:
-    nltk.download('stopwords')
+# Download required NLTK data with better error handling
+@st.cache_resource
+def download_nltk_data():
+    try:
+        # Set NLTK data path
+        nltk.data.path.append(nltk_data_dir)
+        
+        # Download punkt tokenizer
+        nltk.download('punkt', download_dir=nltk_data_dir, quiet=True)
+        # Download stopwords
+        nltk.download('stopwords', download_dir=nltk_data_dir, quiet=True)
+        return True
+    except Exception as e:
+        st.error(f"Error downloading NLTK data: {e}")
+        return False
+
+# Download NLTK data
+download_nltk_data()
 
 ps=PorterStemmer()
 
