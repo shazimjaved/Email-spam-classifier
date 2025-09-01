@@ -116,5 +116,5 @@ This project is for Learning & Educational Purpose
 
 <div align="center">
   <p><strong>Made with ❤️ by Shazim Javed</strong></p>
-  <p><em>Powered by Machine Learning & Natural Language Processing</em></p>)
+  <p><em>Powered by Machine Learning & Natural Language Processing</em></p>
 </div>
