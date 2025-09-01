@@ -111,14 +111,10 @@ This project is for Learning & Educational Purpose
 **Shazim Javed**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shazimjaved)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shazim-javed-095472325)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shazim-javed-095472325)
 
 
 <div align="center">
   <p><strong>Made with ❤️ by Shazim Javed</strong></p>
-  <p><em>Powered by Machine Learning & Natural Language Processing</em></p>
-  
-  [![GitHub stars](https://img.shields.io/github/stars/your-username/spam-classification?style=social)](https://github.com/your-username/spam-classification)
-  [![GitHub forks](https://img.shields.io/github/forks/your-username/spam-classification?style=social)](https://github.com/your-username/spam-classification)
-  [![GitHub watchers](https://img.shields.io/github/watchers/your-username/spam-classification?style=social)](https://github.com/your-username/spam-classification)
+  <p><em>Powered by Machine Learning & Natural Language Processing</em></p>)
 </div>
