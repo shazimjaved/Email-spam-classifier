@@ -4,9 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-orange.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/your-username/spam-classification?style=social)](https://github.com/your-username/spam-classification)
-[![Forks](https://img.shields.io/github/forks/your-username/spam-classification?style=social)](https://github.com/your-username/spam-classification)
-
+[![Stars](https://img.shields.io/github/stars/your-username/spam-classification?style=social)](https://github.com/shazimjaved/Email-spam-classifier)
 > A powerful machine learning-based spam detection system that can classify emails and SMS messages as spam or legitimate using advanced Natural Language Processing (NLP) techniques.
 
 ## 🌟 Features
@@ -27,9 +25,9 @@
 
 ## 🎯 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://https://email-spam-classifier-shazim.streamlit.app/)
 
-Try the live demo: [Spam Classification App](https://your-streamlit-app-url.streamlit.app/)
+Try the live demo: [Spam Classification App](https://https://email-spam-classifier-shazim.streamlit.app/)
 
 ## 📸 Screenshots
 
@@ -49,7 +47,7 @@ Try the live demo: [Spam Classification App](https://your-streamlit-app-url.stre
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/spam-classification.git
+   git clone https://github.com/your-username/Email-spam-classifier.git
    cd spam-classification
    ```
 
@@ -95,7 +93,7 @@ The model was trained on a comprehensive dataset containing:
 
 - **📧 Spam Messages**: Various types of spam emails and SMS
 - **✅ Legitimate Messages**: Normal, non-spam communications
-- **📈 Data Source**: [Specify your dataset source]|
+- **📈 Data Source**: [kaggle.com]|
 
 ## 🔧 API Reference
 
@@ -112,8 +110,8 @@ This project is for Learning & Educational Purpose
 
 **Shazim Javed**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shazimjaved)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shazim-javed-095472325)
 
 
 <div align="center">
