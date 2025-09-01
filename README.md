@@ -25,9 +25,9 @@
 
 ## 🎯 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://https://email-spam-classifier-shazim.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://email-spam-classifier-shazim.streamlit.app/)
 
-Try the live demo: [Spam Classification App](https://https://email-spam-classifier-shazim.streamlit.app/)
+Try the live demo: [Spam Classification App](https://email-spam-classifier-shazim.streamlit.app/)
 
 ## 📸 Screenshots
 
